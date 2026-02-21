@@ -1,0 +1,40 @@
+[
+  {
+    "url": "https://otzovik.com/reviews/nou_vpo_mezhdunarodnaya_akademiya_biznesa_i_upravleniya_russia_moscow/?order=date_desc",
+    "crawl": {
+      "loadedUrl": "https://otzovik.com/reviews/nou_vpo_mezhdunarodnaya_akademiya_biznesa_i_upravleniya_russia_moscow/?order=date_desc",
+      "loadedTime": "2026-02-19T19:54:03.038Z",
+      "referrerUrl": "https://otzovik.com/reviews/nou_vpo_mezhdunarodnaya_akademiya_biznesa_i_upravleniya_russia_moscow/?order=date_desc",
+      "httpStatusCode": 507,
+      "depth": 0,
+      "contentType": "text/html; charset=UTF-8"
+    },
+    "metadata": {
+      "title": "Отзовик - Вы робот?",
+      "description": null,
+      "author": null,
+      "keywords": null,
+      "languageCode": "ru",
+      "jsonLd": null,
+      "headers": {
+        "server": "nginx/1.18.0 (Ubuntu)",
+        "date": "Thu, 19 Feb 2026 19:54:01 GMT",
+        "content-type": "text/html; charset=UTF-8",
+        "x-powered-by": "PHP/8.2.30",
+        "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+        "cache-control": "no-store, no-cache, must-revalidate",
+        "pragma": "no-cache",
+        "set-cookie": "ROBINBOBIN=eb9faa8342ff0d4f5e409c9fc9; path=/; domain=.otzovik.com; HttpOnly\nssid=1486844319; expires=Sat, 19 Feb 2028 19:54:01 GMT; Max-Age=63072000; path=/; domain=.otzovik.com; HttpOnly",
+        "sec-fetch-site": "same-origin",
+        "retry-after": "3600",
+        "x-firefox-spdy": "h2"
+      }
+    },
+    "screenshotUrl": null,
+    "text": "Отзовик - Вы робот?\nС Вашего IP-адреса было много обращений к сайту Отзовик.\nЕсли Вы пользуетесь VPN, анонимайзерами, режимом \"не оставлять следов в интернете\" в антивирусе или турбо-режимом в браузере, то отключите их, чтобы реже попадать на эту страницу. Спасибо.",
+    "markdown": "# Отзовик - Вы робот?\n\nС Вашего IP-адреса было много обращений к сайту Отзовик.\n\nЕсли Вы пользуетесь VPN, анонимайзерами, режимом \"не оставлять следов в интернете\" в антивирусе или турбо-режимом в браузере, то отключите их, чтобы реже попадать на эту страницу. Спасибо.",
+    "debug": {
+      "requestHandlerMode": "browser"
+    }
+  }
+]
