@@ -1,6 +1,3 @@
-from firecrawl import Firecrawl
-
-app = Firecrawl(api_key="fc-be92f663d5f74d8da0a7d7253965240f")
 
 
 result = app.scrape(
